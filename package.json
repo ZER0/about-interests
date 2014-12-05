@@ -1,0 +1,12 @@
+{
+  "title": "about:interests",
+  "name": "about-interests",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Matteo Ferretti",
+  "engines": {
+    "firefox": ">=33.0a1"
+  },
+  "license": "MIT"
+}
